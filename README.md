@@ -2,8 +2,12 @@
 
 
 <h2>This Repository holds all of the code and queries related to Data Analysis Portfolio Projects created.<h2>
+  
 ## [EDA Spotify](https://github.com/reinedb5/Portfolio/blob/main/eda-spotify.ipynb)
 ### This is a personal project which includes performing EDA on spotify dataset using python to analyze 2M tracks and gain insights to identify trends and patterns in the popularity and track durations. Performed Aggregate functions and visualized the data using pandas, numpy, matplotlib and seaborn to compile report.
+  
+## [Netflix Data Visualization](https://public.tableau.com/views/Netflix_Dashboard_16769948151210/Netflix?:language=en-US&:display_count=n&:origin=viz_share_link)
+### This Data Visualization project involves performing analysis on 8,000 Movies & TV observations across different regions and countries. Loading and visualizing data with Tableau to identify key business intelligences that can help improve users decision making process.
   
 ## [Bank loan case study](https://github.com/reinedb5/Portfolio/blob/main/Bank%20Loan.ipynb)
 ### This case study aims to identify patterns indicating whether a client will have difficulty paying their installments and determine the driving factors behind loan default. The analysis will inform actions such as denying loans, reducing loan amounts, or lending at higher interest rates.
@@ -25,3 +29,7 @@
   
   ## [ABC Call Volume Trend Analysis](https://github.com/reinedb5/Portfolio/blob/main/Call_Volume_Trend_Analysis_Project_9__.xlsx)
   ### This project aims to explore the dataset on Customer Experience (CX) data for an inbound calling team and also analyze the dataset to ultimately reduce their abandon call rate and propose a new manpower plan that would help increase their productive hours of the call agents.
+  
+  ## [Airbnb Data Visualization](https://public.tableau.com/views/Airbnb_16852065228480/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+  ### This project involves performing analysis on 48895 rows across NYC neighbourhood and grouped neighbourhood. Identifying about hosts, geographical availability, and metrics to draw conclusions.
+

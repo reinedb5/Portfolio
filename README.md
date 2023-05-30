@@ -1,7 +1,7 @@
-<h1>Data Analyst Portfolio Project Repository</h1>
+# Data Analyst Portfolio Project Repository
 
 
-<h2>This Repository holds all of the code and queries related to Data Analysis Portfolio Projects created.<h2>
+## This Repository holds all of the code and queries related to Data Analysis Portfolio Projects created.
   
 ## [EDA Spotify](https://github.com/reinedb5/Portfolio/blob/main/eda-spotify.ipynb)
 ### This is a personal project which includes performing EDA on spotify dataset using python to analyze 2M tracks and gain insights to identify trends and patterns in the popularity and track durations. Performed Aggregate functions and visualized the data using pandas, numpy, matplotlib and seaborn to compile report.
